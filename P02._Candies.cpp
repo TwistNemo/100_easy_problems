@@ -1,3 +1,5 @@
+// https://codeforces.com/group/yg7WhsFsAp/contest/355490/problem/P02
+
 #include <iostream>
 #include <cmath>
 
